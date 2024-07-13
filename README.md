@@ -2,7 +2,7 @@
 This repository holds all data, tools, and supporting documents for the following study:
 
 University of South Florida BMP project final report for FDAC titled Demonstration of Bioretention for Treatment of Agricultural Runoff (2024)
-Link: [*to be published*]
+Link: (*in progress*)
 
 # Contents
 ## Modelling
@@ -11,7 +11,7 @@ Link: [*to be published*]
 - **1c_USF_Bioretention_webinar_survey.xlsx**: pre-webinar survey responses used to generate infographics
 
 ## Tables and Figures
-- **Final tables and figures.pdf**: all primary and supplementary figures and tables
+- **Final tables and figures.pdf**: all primary and supplementary figures and tables (*in progress*)
 
 # Authors
 Sarina J. Ergas, Mahmood Nachabe, Ananda Bhattacharjee, Nicholas Richardson, Rachael Cooper, Nusrat Sharmin, Natchaya Luangphairin
