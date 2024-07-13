@@ -1,12 +1,14 @@
 # Demonstration of Bioretention for Treatment of Agricultural Runoff
 This repository holds all data, tools, and supporting documents for the following study:
 
-University of South Florida BMP project final report for FDAC titled Demonstration of Bioretention for Treatment of Agricultural Runoff (2024).
+University of South Florida BMP project final report for FDAC titled Demonstration of Bioretention for Treatment of Agricultural Runoff (2024)
 Link: [*to be published*]
 
 # Contents
 ## Modelling
-- **Bioretention_tool.xlsm**: EXCEL Tool  calculates the required bioretention surface area and predicts the nitrogen removal efficiency based on the input parameters.
+- **1a_Master_datasheet.xlsx**: Results from experimental program includes all tables and figures for field bioretention study
+- **1b_Bioretention_EXCEL_tool.xlsm**: EXCEL Tool  calculates the required bioretention surface area and predicts the nitrogen removal efficiency based on the input parameters
+- **1c_USF_Bioretention_webinar_survey.xlsx**: pre-webinar survey responses used to generate infographics
 
 ## Tables and Figures
 - **Final tables and figures.pdf**: all primary and supplementary figures and tables
