@@ -7,7 +7,7 @@ Link: (*in progress*)
 # Contents
 ## Modelling
 - **1a_Master_datasheet.xlsx**: Results from experimental program includes all tables and figures for field bioretention study.
-- **1b_Bioretention_EXCEL_tool.xlsm**: EXCEL Tool  calculates the required bioretention surface area and predicts the nitrogen removal efficiency based on the input parameters. [Download the excel tool](https://github.com/natchayal/FDACS_Bioretention_project/blob/main/1c_Bioretention_EXCEL_tool.xlsm) 
+- **1b_Bioretention_EXCEL_tool.xlsm**: EXCEL Tool  calculates the required bioretention surface area and predicts the nitrogen removal efficiency based on the input parameters. [Download the excel tool](https://github.com/natchayal/FDACS_Bioretention_project/raw/main/1c_Bioretention_EXCEL_tool.xlsm) 
 - **1c_USF_Bioretention_webinar_survey.xlsx**: pre-webinar survey responses used to generate infographics
     
 ## Tables and Figures
