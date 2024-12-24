@@ -5,11 +5,13 @@ University of South Florida BMP project final report for FDAC titled Demonstrati
 Link: (*in progress*)
 
 # Contents
-## Modelling
+## Analysis and Modeling
 - **1a_Master_datasheet.xlsx**: Results from experimental program includes all tables and figures for field bioretention study.
 - **1b_Bioretention_EXCEL_tool.xlsm**: EXCEL Tool  calculates the required bioretention surface area and predicts the nitrogen removal efficiency based on the input parameters. [Download the excel tool](https://github.com/natchayal/FDACS_Bioretention_project/raw/main/1b_Bioretention_EXCEL_tool.xlsm) 
 - **1c_USF_Bioretention_webinar_survey.xlsx**: pre-webinar survey responses used to generate infographics
-    
+- **1d_model_data**: data to be paired with R script for modeling
+- **1e_Rscript_modeling**: R script for modeling
+  
 ## Tables and Figures
 - **Final tables and figures.pdf**: all primary and supplementary figures and tables (*in progress*)
 
