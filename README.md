@@ -1,7 +1,12 @@
+<div align="center">
+  <img src="https://github.com/natchayal/FDACS_Bioretention_project/blob/main/IMG-20240502-WA0013.jpg" style="width: 40%;">
+</div>
+
 # Demonstration of Bioretention for Treatment of Agricultural Runoff
+
 This repository holds all data, tools, and supporting documents for the following study:
 
-University of South Florida final report for FDAC available on FDAC BMP Research site: [Demonstration of Bioretention for Treatment of Agricultural Runoff.pdf](https://www.fdacs.gov/content/download/118071/file/FDACS%20_28514_Final_Report_revised.pdf)
+University of South Florida final report for FDAC available on the FDAC BMP Research site: [Demonstration of Bioretention for Treatment of Agricultural Runoff.pdf](https://www.fdacs.gov/content/download/118071/file/FDACS%20_28514_Final_Report_revised.pdf)
 
 Published in *Water*, article entitled "Nursery Runoff Treatment by Novel Biochar-Amended Bioretention Systems", DOI:
 https://doi.org/10.3390/w17030330
